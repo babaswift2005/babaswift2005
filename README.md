@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/babaswift2005/babaswift2005/blob/main/banner.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Baba Swift</h1>
 <h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast</h3>
 
