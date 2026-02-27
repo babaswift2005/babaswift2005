@@ -1,78 +1,115 @@
-<p align="center">
-  <img src="https://github.com/babaswift2005/babaswift2005/blob/main/banner.png" />
-</p>
-<h1 align="center">Hi 👋, I'm Baba Swift</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;Web+Developer;Open+Source+Contributor;Always+Learning+New+Things" />
-</p>
-<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast</h3>
+<div align="center">
+  <img src="banner.png" alt="Banner" width="100%"/>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
 
-- 🔭 I’m currently working on Real World Projects
-- 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about Web Development
-- 📫 Telegram: @babaswiftz
-- 🤖 Backup: @babaswiftbot
-- ⚡ Fun fact: I love building scalable applications
+# Hi, I'm Baba Swift
 
----
+### Full Stack Developer · Open Source Enthusiast
 
-### 🌐 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/babaswift2005)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/babaswiftz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/babaswift)
 
-- Telegram: https://t.me/babaswiftz
-- Backup: https://t.me/babaswiftbot
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## About Me
 
-💻 HTML | CSS | JavaScript | Python
-⚛️ React.js  
-🟢 Node.js  
-🍃 MongoDB  
-🔧 Git & GitHub  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=babaswift2005&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=babaswift2005&theme=tokyonight" />
-</p>
+- **Current focus:** Building real-world, production-ready applications
+- **Learning:** Backend development, REST APIs, authentication & system design
+- **Interested in:** Open source collaboration, freelance work, and internships
+- **Ask me about:** Web development, MERN stack, and scalable app architecture
+- **Fun fact:** I enjoy turning ideas into clean, maintainable code
 
 ---
 
-### 🧠 Currently Learning
+## Tech Stack
 
-- Backend Development  
-- REST API  
-- Authentication  
-- System Design  
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html,css" alt="HTML & CSS" width="48"/>
+      <br>HTML · CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript" width="48"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="48"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48"/>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git,github" alt="Git" width="48"/>
+      <br>Git & GitHub
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Projects
+## GitHub Stats
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| Coming Soon | Web App | MERN |
-| Coming Soon | API | Node |
-| Coming Soon | UI | React |
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babaswift2005&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-### 🤝 Open To
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=babaswift2005&theme=github-dark&hide_border=true)
 
-- Freelance Work  
-- Collaboration  
-- Open Source  
-- Internship  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babaswift2005&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
 
 ---
 
-⭐️ From Baba Swift
+## Currently Learning
+
+- Backend development & REST API design
+- Authentication (JWT, OAuth) & security best practices
+- System design & scalable architecture
+
+---
+
+## Projects
+
+| Project       | Description        | Stack   | Status        |
+|--------------|--------------------|---------|---------------|
+| Web App      | Full-stack web app | MERN    | Coming soon   |
+| API          | RESTful API        | Node.js | Coming soon   |
+| UI Library   | Reusable components| React   | Coming soon   |
+
+*More projects and open-source contributions on the way.*
+
+---
+
+## Let's Connect
+
+- **Telegram:** [@babaswiftz](https://t.me/babaswiftz) · Backup: [@babaswiftbot](https://t.me/babaswiftbot)
+- **Open to:** Freelance work · Collaboration · Open source · Internship
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=babaswift2005&color=blueviolet&style=flat-square)
+
+</div>
