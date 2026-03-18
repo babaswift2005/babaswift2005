@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/babaswift2005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babaswift/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/babaswift/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/babaswift2005/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/babaswiftz)
 
 </div>
@@ -104,7 +104,7 @@
 
 - **GitHub:** [@babaswift2005](https://github.com/babaswift2005)
 - **LinkedIn:** [babaswift](https://www.linkedin.com/in/babaswift/)
-- **Reddit:** [u/babaswift](https://www.reddit.com/user/babaswift/)
+- **Reddit:** [u/babaswift](https://www.reddit.com/user/babaswift2005/)
 - **Telegram:** [@babaswiftz](https://t.me/babaswiftz) · Backup: [@babaswiftbot](https://t.me/babaswiftbot)
 - **Open to:** Freelance work · Collaboration · Open source · Internship
 
