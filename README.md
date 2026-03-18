@@ -104,7 +104,7 @@
 
 - **GitHub:** [@babaswift2005](https://github.com/babaswift2005)
 - **LinkedIn:** [babaswift](https://www.linkedin.com/in/babaswift/)
-- **Reddit:** [u/babaswift](https://www.reddit.com/user/babaswift2005/)
+- **Reddit:** [u/babaswift2005](https://www.reddit.com/user/babaswift2005/)
 - **Telegram:** [@babaswiftz](https://t.me/babaswiftz) · Backup: [@babaswiftbot](https://t.me/babaswiftbot)
 - **Open to:** Freelance work · Collaboration · Open source · Internship
 
