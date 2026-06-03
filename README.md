@@ -10,13 +10,6 @@
 
 ### Software Developer
 
-<br/>
-
-<img src="avatar_animated.svg" width="220" alt="Baba Swift Avatar"/>
-
-<br/>
-<br/>
-
 **Web Development · AI Applications · Automation Systems · E-Commerce Platforms · Custom Business Solutions**
 
 <br/>
