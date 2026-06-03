@@ -10,6 +10,13 @@
 
 ### Software Developer
 
+<br/>
+
+<img src="avatar_animated.svg" width="220" alt="Baba Swift Avatar"/>
+
+<br/>
+<br/>
+
 **Web Development · AI Applications · Automation Systems · E-Commerce Platforms · Custom Business Solutions**
 
 <br/>
@@ -104,11 +111,11 @@ Software Developer with hands-on experience building web applications, AI-powere
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babaswift2005&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=babaswift2005&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=babaswift2005&theme=github-dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=babaswift2005&theme=github-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babaswift2005&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=babaswift2005&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
