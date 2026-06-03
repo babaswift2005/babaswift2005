@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Hi, I'm Baba Swift 👋
+# Baba Swift
 
 ### Software Developer
 
@@ -16,26 +16,24 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/babaswift2005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babaswift/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/babaswift2005/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/babaswiftz)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a **Software Developer** focused on building intelligent, scalable, and production-grade solutions across multiple domains. I specialize in crafting modern web applications, integrating AI capabilities, building automation pipelines, developing e-commerce platforms, and delivering custom software tailored to unique business needs.
+Software Developer with hands-on experience building web applications, AI-powered tools, automation systems, and custom business solutions. I focus on writing clean, production-grade code and delivering software that solves real problems — from intelligent automation pipelines to scalable e-commerce platforms.
 
-- 🔭 **Currently working on:** AI-powered automation tools & scalable web platforms
-- 🧠 **Exploring:** Large Language Model integration, agentic workflows, and intelligent automation
-- 💼 **Specialties:** End-to-end product development, API architecture, AI/ML integration, and business process automation
-- 💬 **Ask me about:** Web development, AI applications, automation systems, e-commerce solutions, and custom software
-- ⚡ **Philosophy:** Clean architecture, reliable systems, and code that solves real problems
+- **Currently working on:** AI-powered developer tools and automation platforms
+- **Specialties:** Full-cycle product development, API architecture, AI/ML integration, and business process automation
+- **Domains:** Web applications, AI applications, automation systems, e-commerce platforms, custom business solutions
+- **Open to:** Freelance projects, contract work, consulting, and long-term collaborations
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table align="center">
   <tr>
@@ -67,7 +65,7 @@ I'm a **Software Developer** focused on building intelligent, scalable, and prod
     <td><strong>AI / ML</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI/ML" height="32"/>
-      <br/>OpenAI API · LangChain · TensorFlow · Prompt Engineering
+      <br/>OpenAI API · LangChain · Ollama · Prompt Engineering
     </td>
   </tr>
   <tr>
@@ -84,23 +82,25 @@ I'm a **Software Developer** focused on building intelligent, scalable, and prod
       <br/>Git · GitHub · Docker · Linux · Nginx
     </td>
   </tr>
-  <tr>
-    <td><strong>E-Commerce</strong></td>
-    <td>
-      🛒 Stripe · PayPal · Shopify API · WooCommerce · Custom Storefronts
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Automation</strong></td>
-    <td>
-      ⚙️ Selenium · Puppeteer · Cron Jobs · Webhooks · n8n · Custom Bots
-    </td>
-  </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## Projects
+
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **RepoMind** | AI-powered tool that explains any GitHub repository using local LLMs via Ollama | TypeScript · Ollama | [View Repo](https://github.com/babaswift2005/repomind) |
+| **Swift Recon** | Lightweight web reconnaissance tool — tech stack detection, endpoint discovery, and subdomain scanning | Python | [View Repo](https://github.com/babaswift2005/swift-recon) |
+| **ResumeForge** | Resume builder application for generating professional resumes | JavaScript | [View Repo](https://github.com/babaswift2005/resumeforge) |
+| **SwiftCommerce** | Full-featured e-commerce platform with payment integration, inventory management, and admin dashboard | Next.js · Stripe · MongoDB | In Progress |
+| **AutoFlow AI** | Intelligent workflow automation engine with AI-powered decision making and task orchestration | Python · FastAPI · LangChain | In Progress |
+| **NeuralAPI** | Production-ready REST API boilerplate with built-in AI features, authentication, and rate limiting | Express · OpenAI · Redis | Planned |
+| **BotForge** | Multi-platform bot framework for Discord, Telegram, and Slack with plugin architecture | Node.js · Discord.js · Python | Planned |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -114,66 +114,26 @@ I'm a **Software Developer** focused on building intelligent, scalable, and prod
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
-- 🤖 **AI & LLMs** — Building agentic AI applications, RAG pipelines, and fine-tuning models
-- 🏗️ **System Design** — Distributed systems, microservices architecture, and event-driven design
-- 🔐 **Security** — OAuth 2.0, JWT, API security hardening, and secure payment flows
-- 📈 **Business Intelligence** — Analytics dashboards, data pipelines, and KPI tracking systems
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Domain | Stack | Status |
-|---------|-------------|--------|-------|--------|
-| **SwiftCommerce** | Full-featured e-commerce platform with payment integration, inventory management & admin dashboard | E-Commerce | Next.js · Stripe · MongoDB | 🔨 In Progress |
-| **AutoFlow AI** | Intelligent workflow automation engine with AI-powered decision making and task orchestration | Automation / AI | Python · FastAPI · LangChain | 🔨 In Progress |
-| **ClientForge** | Custom CRM & business management platform for freelancers and small agencies | Business Solutions | React · Node.js · PostgreSQL | 🔨 In Progress |
-| **NeuralAPI** | Production-ready REST API boilerplate with built-in AI features, auth, and rate limiting | Web Dev / AI | Express · OpenAI · Redis | 📋 Planned |
-| **SiteGenius** | AI-powered website builder that generates responsive sites from natural language prompts | AI / Web Dev | Next.js · GPT-4 · Tailwind | 📋 Planned |
-| **BotForge** | Multi-platform bot framework for Discord, Telegram & Slack with plugin architecture | Automation | Node.js · Discord.js · Python | 📋 Planned |
-| **DeployPilot** | One-click deployment & monitoring dashboard for web applications with CI/CD integration | DevOps / Web Dev | React · Docker · GitHub Actions | 📋 Planned |
-| **InvoiceFlow** | Automated invoicing and billing system with payment tracking and client portal | Business Solutions | Next.js · Stripe · PDF Generation | 📋 Planned |
-
-> 💡 *Projects marked "In Progress" are actively being developed. "Planned" projects are in the design phase — stay tuned for releases.*
+- **AI & LLMs** — Building agentic AI applications, RAG pipelines, and model fine-tuning
+- **System Design** — Distributed systems, microservices, and event-driven architecture
+- **Security** — OAuth 2.0, JWT, API hardening, and secure payment flows
+- **DevOps** — CI/CD pipelines, containerization, and cloud deployment
 
 ---
 
-## 💼 Services & Expertise
-
-<div align="center">
-
-| 🌐 Web Development | 🤖 AI Applications | ⚙️ Automation Systems |
-|:---:|:---:|:---:|
-| Custom websites & web apps | AI-powered chatbots & assistants | Workflow automation & bots |
-| SaaS platforms & dashboards | LLM integration & prompt engineering | Web scraping & data pipelines |
-| API development & integration | Intelligent data processing | Scheduled tasks & monitoring |
-
-| 🛒 E-Commerce Platforms | 🏢 Custom Business Solutions |
-|:---:|:---:|
-| Online stores & marketplaces | CRM & ERP systems |
-| Payment gateway integration | Internal tools & admin panels |
-| Inventory & order management | Client portals & reporting |
-
-</div>
-
----
-
-## 🤝 Let's Connect
+## Contact
 
 - **GitHub:** [@babaswift2005](https://github.com/babaswift2005)
 - **LinkedIn:** [babaswift](https://www.linkedin.com/in/babaswift/)
-- **Reddit:** [u/babaswift2005](https://www.reddit.com/user/babaswift2005/)
-- **Telegram:** [@babaswiftz](https://t.me/babaswiftz) · Backup: [@babaswiftbot](https://t.me/babaswiftbot)
+- **Telegram:** [@babaswiftz](https://t.me/babaswiftz)
+
+**Open to:** Freelance Projects · Contract Work · Collaboration · Consulting
 
 ---
 
 <div align="center">
-
-**💼 Open to:** Freelance Projects · Contract Work · Collaboration · Consulting · Long-term Partnerships
-
----
 
 *Building intelligent solutions, one commit at a time.*
 
