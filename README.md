@@ -93,7 +93,7 @@ Software Developer with hands-on experience building web applications, AI-powere
 | **RepoMind** | AI-powered tool that explains any GitHub repository using local LLMs via Ollama | TypeScript · Ollama | [View Repo](https://github.com/babaswift2005/repomind) |
 | **Swift Recon** | Lightweight web reconnaissance tool — tech stack detection, endpoint discovery, and subdomain scanning | Python | [View Repo](https://github.com/babaswift2005/swift-recon) |
 | **ResumeForge** | Resume builder application for generating professional resumes | JavaScript | [View Repo](https://github.com/babaswift2005/resumeforge) |
-| **SwiftCommerce** | Full-featured e-commerce platform with payment integration, inventory management, and admin dashboard | Next.js · Stripe · MongoDB | In Progress |
+| **SwiftCommerce** | Full-featured e-commerce platform with payment integration, inventory management, and admin dashboard | Next.js · Stripe · MongoDB | [View Repo](https://github.com/babaswift2005/SwiftCommerce) |
 | **AutoFlow AI** | Intelligent workflow automation engine with AI-powered decision making and task orchestration | Python · FastAPI · LangChain | In Progress |
 | **NeuralAPI** | Production-ready REST API boilerplate with built-in AI features, authentication, and rate limiting | Express · OpenAI · Redis | Planned |
 | **BotForge** | Multi-platform bot framework for Discord, Telegram, and Slack with plugin architecture | Node.js · Discord.js · Python | Planned |
